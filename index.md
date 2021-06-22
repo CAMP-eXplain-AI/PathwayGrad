@@ -1,5 +1,5 @@
 In this work, we: 
-* discuss critical pathways (sparse neural pathways that encode critical input features), and show that pruning obective does not identify these pathways
+* discuss critical pathways (sparse neural pathways that encode critical input features), and show that the pruning obective does not identify these pathways
 * propose a feature attribution (**saliency map**) method, "Pathway Gradient", by leveraging critical pathways
 
 
@@ -13,7 +13,7 @@ Watch the [video on YouTube](https://youtu.be/z5uhcqtFORY)
 
 Check the [Code on GitHub](https://github.com/CAMP-eXplain-AI/PathwayGrad.git)
 
-### Citation
+#### Citation
 Please cite the work using the below BibTeX (also available on the Open Access link above)
 ``` bash
 @InProceedings{Khakzar_2021_CVPR,
@@ -38,6 +38,6 @@ or this one (available on arXiv):
 ```
 
 
-### Contact
+#### Contact
 For inquiries please contact Ashkan Khakzar (ashkan.khakzar@tum.de). We would be happy to help.
 
