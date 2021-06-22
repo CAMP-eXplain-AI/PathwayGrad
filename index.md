@@ -6,10 +6,10 @@ In this work, we:
 The paper is available on **[CVPR2021 Open Access](https://openaccess.thecvf.com/content/CVPR2021/html/Khakzar_Neural_Response_Interpretation_Through_the_Lens_of_Critical_Pathways_CVPR_2021_paper.html)** and on **[arXiv](https://arxiv.org/abs/2103.16886)**. 
 
 View the [poster](Poster_Neural_Response_Interpretation_Through_the_Lens_of_Critical.pdf)
-![preview](poster-preview.JPG)
+[![preview](poster-preview.JPG)](Poster_Neural_Response_Interpretation_Through_the_Lens_of_Critical.pdf)
 
 Watch the [video on YouTube](https://youtu.be/z5uhcqtFORY)
-![preview](Video-preview.JPG)
+[![preview](Video-preview.JPG)](https://youtu.be/z5uhcqtFORY)
 
 Check the [Code on GitHub](https://github.com/CAMP-eXplain-AI/PathwayGrad.git)
 
