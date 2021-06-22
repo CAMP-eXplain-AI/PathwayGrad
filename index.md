@@ -8,6 +8,7 @@ The paper and its supplementary materials are available on **[CVPR2021 Open Acce
 
 ### Supplementary Materials
 [Code](https://github.com/CAMP-eXplain-AI/PathwayGrad.git)
+[poster](Poster_Neural_Response_Interpretation_Through_the_Lens_of_Critical.pdf)
 
 ### Citation
 Please cite the work using the below BibTeX (also available on the Open Access link above)
