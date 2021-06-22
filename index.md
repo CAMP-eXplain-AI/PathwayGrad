@@ -1,3 +1,8 @@
+In this work, we: 
+* discuss critical pathways (sparse neural pathways that encode critical input features), and show that pruning obective does not identify these pathways
+* propose a feature attribution (**saliency map**) method, "Pathway Gradient", by leveraging critical pathways
+
+
 The paper is available on **[CVPR2021 Open Access](https://openaccess.thecvf.com/content/CVPR2021/html/Khakzar_Neural_Response_Interpretation_Through_the_Lens_of_Critical_Pathways_CVPR_2021_paper.html)** and on **[arXiv](https://arxiv.org/abs/2103.16886)**. 
 
 View the [poster](Poster_Neural_Response_Interpretation_Through_the_Lens_of_Critical.pdf)
