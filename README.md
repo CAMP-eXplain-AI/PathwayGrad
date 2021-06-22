@@ -33,7 +33,7 @@ or this one (available on arXiv):
 }
 ```
 
-## Critical Pathways
+## Critical Pathways Analysis
 The explained critical pathways extraction methods [NeuronIntGrad, NeuronMCT, Greedy, Random, DGR] are implemented in the `src/Pruner.py` file.
 
 You can find examples of how to use them in `path_analysis.py` file. 
@@ -48,7 +48,7 @@ For example, to get the critical pathways by NeuronMCT method:
 The `path_analysis.py` contains all the analyses for the experiments done to analyze different methods by which we derive critical pathways in the paper.
 For Pathway Decoding experiments see `path_decoding/path_decoding.py`. The implementation is based on the Lucent package. 
 
-## PathwaysGrad
+## Saliency Map Generation (Feature Attribution) via PathwayGrad
 Getting saliency maps by using different methods in the paper is mostly alike getting the paths (prev section). 
 For example, to get the saliency map of an input based on the NeuronMCT method:
 ```
