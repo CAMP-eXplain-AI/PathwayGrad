@@ -1,8 +1,8 @@
-In this work, we: 
-* discuss critical pathways (sparse neural pathways that encode critical input features), and show that the pruning obective does not identify these pathways
-* propose a feature attribution (**saliency map**) method, "Pathway Gradient", by leveraging critical pathways
+#### Key Messages
+* Sparse neural pathways encode critical input features. The pruning obective does not identify these critical pathways.
+* The paper proposes a feature attribution (**saliency map**) method, "Pathway Gradient", by leveraging critical pathways.
 
-
+#### Resources
 The paper is available on **[CVPR2021 Open Access](https://openaccess.thecvf.com/content/CVPR2021/html/Khakzar_Neural_Response_Interpretation_Through_the_Lens_of_Critical_Pathways_CVPR_2021_paper.html)** and on **[arXiv](https://arxiv.org/abs/2103.16886)**. 
 
 View the [poster](Poster_Neural_Response_Interpretation_Through_the_Lens_of_Critical.pdf)
@@ -12,6 +12,7 @@ Watch the [video on YouTube](https://youtu.be/z5uhcqtFORY)
 [![preview](Video-preview.JPG)](https://youtu.be/z5uhcqtFORY)
 
 Check the [Code on GitHub](https://github.com/CAMP-eXplain-AI/PathwayGrad.git)
+[![preview](Code-preview.JPG)](https://github.com/CAMP-eXplain-AI/PathwayGrad.git)
 
 #### Citation
 Please cite the work using the below BibTeX (also available on the Open Access link above)
@@ -39,5 +40,5 @@ or this one (available on arXiv):
 
 
 #### Contact
-For inquiries please contact Ashkan Khakzar (ashkan.khakzar@tum.de). We would be happy to help.
+For inquiries and feedback please contact Ashkan Khakzar (ashkan.khakzar@tum.de). We would be happy to help and we appreciate your feedback.
 
